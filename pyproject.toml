@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "setuptools",
+    "flax>=0.8.5",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lpips-nnx"
+version = "0.0.1"

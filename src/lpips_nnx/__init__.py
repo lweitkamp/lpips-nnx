@@ -1,0 +1,1 @@
+from lpips_nnx.lpips import LPIPS
